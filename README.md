@@ -15,9 +15,8 @@ An AI-powered platform that helps construction companies monitor, predict, and p
 
 | Resource | Link |
 |----------|------|
-| 🚀 Live Demo | https://your-demo-link.com |
-| 🎥 Demo Video | https://your-video-link.com |
-| 📦 GitHub Repository | https://github.com/your-repository |
+| 🎥 Demo Video | https://your-demo-video-link.com |
+| 📦 GitHub Repository | https://github.com/yourusername/buildwise-ai |
 
 ---
 
